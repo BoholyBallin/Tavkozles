@@ -15,4 +15,6 @@ Egy áramkörben I=0.5 f=200hz frekvenciájú áram folyik
 - $$U= R * I = 100 * 0,5 = 50V$$
 - $$Up=U*\sqrt{2} = 50 * 1.4142 =70.7V$$
 ---
-## link:https://tinyurl.com/27393umd
+## <img width="1127" height="609" alt="image" src="https://github.com/user-attachments/assets/622bf622-2731-4bbc-87ca-47c4f7a51cae" />  link:https://tinyurl.com/27393umd
+
+
