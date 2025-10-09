@@ -48,6 +48,9 @@ A mérés célja a DVB-T jel paramétereinek ellenőrzése a földfelszíni digi
 - **Modulációs paraméterek:** A QPSK moduláció esetén a mért jel/zaj viszony (SNR) 12 dB körül váltakozott, ami megfelel a követelményeknek.
 
 - **Modulation Error Ratio (MER):** A mért MER érték 27 dB volt, amely azt mutatja, hogy a vétel probléma mentes volt.  
+![Jegyzökönyv_10.09._antenna_miskolctv4.bmp](https://github.com/user-attachments/files/22795827/Jegyzokonyv_10.09._antenna_miskolctv4.bmp)
+
+![Jegyzökönyv_10.09._antenna_miskolctv.bmp](https://github.com/user-attachments/files/22795845/Jegyzokonyv_10.09._antenna_miskolctv.bmp)
 
 ## 5. Elemzés
 
