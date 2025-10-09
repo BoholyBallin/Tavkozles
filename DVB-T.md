@@ -2,7 +2,7 @@
 
 **Mérés helye:** Miskolci SZC Kandó Kálmán Informatikai Technikum  
 **Mérés időpontja:** 2025.10.09.  
-**Mérő műszerek:** METEK HD - SV:1.18.2023 - SN: 211110001346 
+**Mérő műszerek:** METEK HD - SV:1.18.2023 - SN: 211110001346  
 **Felelős személy:** Boholy Bálint  
 **Cél:** A DVB-T jel minőségi paramétereinek mérése.
 
