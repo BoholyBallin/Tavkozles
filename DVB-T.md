@@ -19,6 +19,8 @@ A mérés célja a DVB-T jel paramétereinek ellenőrzése a földfelszíni digi
 **Adó távolsága:** 782,88 m  
 **ADÓTORONY - VÉTELI HELY távolság**
 
+![unnamed (1)](https://github.com/user-attachments/assets/11975fa8-df09-41a7-bf94-8ea9a146985e)
+
 ## 3. Mérési paraméterek
 
 | Paraméter                            | Érték            |
@@ -45,7 +47,7 @@ A mérés célja a DVB-T jel paramétereinek ellenőrzése a földfelszíni digi
   
 - **Modulációs paraméterek:** A QPSK moduláció esetén a mért jel/zaj viszony (SNR) 12 dB körül váltakozott, ami megfelel a követelményeknek.
 
-- **Modulation Error Ratio (MER):** A mért MER érték 27 dB volt, amely azt mutatja, hogy a vétel probléma mentes volt.
+- **Modulation Error Ratio (MER):** A mért MER érték 27 dB volt, amely azt mutatja, hogy a vétel probléma mentes volt.  
 
 ## 5. Elemzés
 
@@ -59,7 +61,7 @@ Az eredmények alapján a mérési helyen megfelelő minőségű DVB-T vétel bi
 
 ## 7. Javaslatok
 
-- Ha szükséges, meg kell vizsgálni az antennarendszer fejlesztésének lehetőségét, vagy további méréseket kell végezni különböző időjárási körülmények között, hogy hosszú távon is biztosított legyen a megfelelő minőségű vétel.
+Érdemes forgatni/emelni az antennát mert elképzelhető hogy a házak miatt nem az a legjobb megoldás ha telibe az adótorony felé forgatjuk az antennát mert lehet egy leverődés erősebb jel lesz ezért miközbe forgatjuk nézzük a készülékünket és ahol a legjobb oda állítsuk!
 
 ---
 
