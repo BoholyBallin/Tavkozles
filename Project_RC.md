@@ -34,4 +34,3 @@ $fh= 2843Hz $
 *Grafikon:*  
 
 
-!<img width="812" height="538" alt="Képernyőkép 2025-10-13 082554" src="https://github.com/user-attachments/assets/247d6502-acb1-48e5-86ac-00b7605b0ec8" />
