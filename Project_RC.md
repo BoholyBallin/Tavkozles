@@ -1,8 +1,37 @@
-# Project RC
-## -A. feladat falstad.com: low pass filter
-### -Képlet:
-fc = 1 / (2πRC)
----
-<img width="1712" height="831" alt="image" src="https://github.com/user-attachments/assets/18747313-2a67-4c97-b359-fffb06bce62f" />
----
-## -B. Mérés
+# RC Szűrő Frequency Response
+
+### Adatok:
+-  R = 4Ω
+-  C = 14µF
+-  U = 1V
+
+| frekvencia [Hz] | (U_{ki}) [V]                     |
+| --------------- | -------------------------------- |
+| 100             | 0,999994                         |
+| 500             | 0,999685                         |
+| 1000            | 0,998740                         |
+| 2000            | 0,994986                         |
+| **2843**        | **0,707000** |
+| 5000            | 0,563897                         |
+| 7000            | 0,454720                         |
+| 9000            | 0,365999                         |
+| 10000           | 0,320736                         |
+| 12000           | 0,254294                         |
+| 15000           | 0,188023                         |
+| 20000           | 0,134944                         |
+| 50000           | 0,050872                         |
+| 100000          | 0,025419                         |
+
+
+
+
+*Határfrekvencia:*   
+   
+$fh= {1 \over (2 * Pi * R * C)} $   
+$fh= {1 \over (2 * Pi * 9R * 1uF)} $   
+$fh= 2843Hz $
+
+*Grafikon:*  
+
+
+!<img width="812" height="538" alt="Képernyőkép 2025-10-13 082554" src="https://github.com/user-attachments/assets/247d6502-acb1-48e5-86ac-00b7605b0ec8" />
