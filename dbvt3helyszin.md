@@ -33,16 +33,16 @@ időjárás:18°C,felhős idő de jó körülmények!
 
 ## Képek az antennákról velem együtt  
 
-![20251017_105619 (1)](https://github.com/user-attachments/assets/dd45da4f-326e-41d0-91d3-dc63d0b69bcb)
+![20251017_105619 (3)](https://github.com/user-attachments/assets/1ad843bc-2977-4e61-b38c-9f8f04d28172)
 
 
 ## Észrevételek:      
-- Vételi pont 1: [Megjegyzések a jelminőségről, antenna viselkedéséről]     
-- Vételi pont 2: [Megjegyzések a jelminőségről, antenna viselkedéséről]          
-- Vételi pont 3: [Megjegyzések a jelminőségről, antenna viselkedéséről]         
+- Vételi pont Udvar: [Meglepően jó vétel annak ellenére hogy a házak takarják a jelet, sok jel lepattan és így bőven 50-55db felett tudjuk fogni a jeleket]     
+- Vételi pont v3: [Ez is jó hely de itt érezhető hogy gyengébb a jel de szépen fogható a jel!]          
+- Vételi pont Suli előtt: [Itt nagyon meglepődtünk hogy mennyit számít hogy mennyire látható az avasi kilátó hisz itt 70db feltt jött a jel]         
 
 ## Következtetések:
-- [Összegzés és értékelés antennánként]
+- [Nagyon élvezetes volt megmérni és letesztelni hogy hogyan működnek az antennák és látni hogy helyszín szerint hogy teljesítenek! Azt mondanám hogy mindegyik antenna szuperül működött de a smart HD 550 bőven elég hisz nagyon közel vagyunk a toronyhoz de ha meszebb lennénk akkor a másik kettőt alkalmaznám!]
 
 ## Időtartam:
 Antennák telepítése és mérések mindhárom vételi ponton: [57perc]     
