@@ -29,13 +29,6 @@ időjárás:18°C,felhős idő de jó körülmények!
 | suli előtt     | Iskra P-58 L700 UNI H/V SMA  | 77.0 dBuV    | QPSK, 1/32      | 26.7  | 30.4 | ![its_snapshot_0002.bmp](https://github.com/user-attachments/files/22968623/its_snapshot_0002.bmp)|
 | suli előtt     | Smart HD 550  | 71.4 dBuV    | QPSK, 1/32      | 28.4  | 32.2 | ![its_snapshot_0003.bmp](https://github.com/user-attachments/files/22968625/its_snapshot_0003.bmp)|
 
-
-
-## Képek az antennákról velem együtt  
-
-![20251017_105619 (3)](https://github.com/user-attachments/assets/1ad843bc-2977-4e61-b38c-9f8f04d28172)
-
-
 ## Észrevételek:      
 - Vételi pont Udvar: [Meglepően jó vétel annak ellenére hogy a házak takarják a jelet, sok jel lepattan és így bőven 50-55db felett tudjuk fogni a jeleket]     
 - Vételi pont v3: [Ez is jó hely de itt érezhető hogy gyengébb a jel de szépen fogható a jel!]          
@@ -43,6 +36,10 @@ időjárás:18°C,felhős idő de jó körülmények!
 
 ## Következtetések:
 - [Nagyon élvezetes volt megmérni és letesztelni hogy hogyan működnek az antennák és látni hogy helyszín szerint hogy teljesítenek! Azt mondanám hogy mindegyik antenna szuperül működött de a smart HD 550 bőven elég hisz nagyon közel vagyunk a toronyhoz de ha meszebb lennénk akkor a másik kettőt alkalmaznám!]
+
+## Képek az antennákról velem együtt  
+
+![20251017_105619 (3)](https://github.com/user-attachments/assets/1ad843bc-2977-4e61-b38c-9f8f04d28172)
 
 ## Időtartam:
 Antennák telepítése és mérések mindhárom vételi ponton: [57perc]     
