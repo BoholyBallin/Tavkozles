@@ -37,6 +37,10 @@ időjárás:18°C,felhős idő de jó körülmények!
 ## Következtetések:
 - [Nagyon élvezetes volt megmérni és letesztelni hogy hogyan működnek az antennák és látni hogy helyszín szerint hogy teljesítenek! Azt mondanám hogy mindegyik antenna szuperül működött de a smart HD 550 bőven elég hisz nagyon közel vagyunk a toronyhoz de ha meszebb lennénk akkor a másik kettőt alkalmaznám!]
 
+## Jelszint növekvő sorrendben (dBuV)
+<img width="2000" height="1200" alt="jelszint_oszlopdiagram" src="https://github.com/user-attachments/assets/1082f9fd-7a10-46a5-acd5-59094cd5f7c8" />
+
+
 ## Képek az antennákról velem együtt  
 
 ![20251017_105619 (3)](https://github.com/user-attachments/assets/1ad843bc-2977-4e61-b38c-9f8f04d28172)
