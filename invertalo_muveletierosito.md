@@ -1,14 +1,22 @@
 # Projekt Dokumentáció: Fázisfordító Erősítő Vizsgálata
 
-**Dátum:** 2024
-**Típus:** Áramkör szimuláció és elemzés
+* **Név:** Boholy Bálint
+* **Dátum:** 2026. január 29.
+* **Helyszín:** Miskolc, Kandó Kálmán Technikum - Labor 3
+* **Típus:** Áramkör szimuláció és elemzés
 
+---
+
+![Mérési elrendezés](https://github.com/user-attachments/assets/6c0dd3d1-53da-4518-93c5-74b758979909)
 ## 1. A projekt célja
 A feladat egy műveleti erősítős alapkapcsolás, konkrétan egy fázisfordító erősítő (inverting amplifier) működésének bemutatása, a feszültségerősítés számítása és a szimulációs eredmények igazolása. Az áramkör egy **TL071** típusú műveleti erősítőre épül.
 
-## 2. Felhasznált alkatrészek és paraméterek
+## 2. Felhasznált alkatrészek és Kapcsolási rajz
 
-Az áramkör az alábbi komponensekből épül fel (a frissített kapcsolási rajz alapján):
+![1000006405](https://github.com/user-attachments/assets/6c07df97-cf5f-43a2-b5b1-7fc63a1f644c)
+
+
+Az áramkör az alábbi komponensekből épül fel:
 
 | Jelölés | Alkatrész | Érték / Típus | Funkció |
 | :--- | :--- | :--- | :--- |
@@ -42,7 +50,10 @@ $$U_{ki} = 1\text{ V} \cdot (-7.085) = -7.085\text{ V}$$
 
 ## 4. Mérési / Szimulációs eredmények
 
-A szimulátorban a voltmérő kijelzőjén $7.085\text{ V}$ olvasható.
+<img width="1615" height="753" alt="Képernyőkép 2026-01-29 123648" src="https://github.com/user-attachments/assets/017e00ed-1c1f-4a36-a5b9-63a6cabe6406" />
+
+
+A szimulátorban a voltmérő kijelzőjén **$8.23\text{ V}$** olvasható.
 
 **Eredmények értelmezése:**
 * **Számított érték:** $-7.085\text{ V}$
