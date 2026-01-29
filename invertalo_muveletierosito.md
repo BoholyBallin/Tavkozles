@@ -53,7 +53,7 @@ $$U_{ki} = 1\text{ V} \cdot (-7.085) = -7.085\text{ V}$$
 <img width="1615" height="753" alt="Képernyőkép 2026-01-29 123648" src="https://github.com/user-attachments/assets/017e00ed-1c1f-4a36-a5b9-63a6cabe6406" />
 
 
-A szimulátorban a voltmérő kijelzőjén **$8.23\text{ V}$** olvasható.
+A szimulátorban a voltmérő kijelzőjén **$8.305\text{ V}$** olvasható.
 
 **Eredmények értelmezése:**
 * **Számított érték:** $-7.085\text{ V}$
